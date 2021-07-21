@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on my internal projects.
 - 📫 How to reach me (vladbruma2020.wixsite.com/techsupportblog).
 - 👩🏿‍💻 Where I usually publish software (vladbruma2020.wixsite.com/techsupportblog/file-share).
+- 📝The Q&A Forum (vladbruma2020.wixsite.com/stack)
