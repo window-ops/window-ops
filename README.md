@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @window-ops!
+- 👀 I’m interested in publishing software.
+- 🌱 I’m currently learning C#, Python, C++, Block-Like Programming.
+- 💞️ I’m looking to collaborate on my internal projects.
+- 📫 How to reach me (vladbruma2020.wixsite.com/techsupportblog).
