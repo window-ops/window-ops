@@ -2,6 +2,6 @@
 - 👀 I’m interested in making better software.
 - 🌱 I’m currently learning C#, Python, C++, Block-Like Programming.
 - 💞️ I’m looking to collaborate on my internal projects.
-- 📫 How to reach me (vladbruma2020.wixsite.com/techsupportblog).
-- 👩🏿‍💻 Where I usually publish software (vladbruma2020.wixsite.com/techsupportblog/file-share).
+- 📫 How to reach me (vladbruma2020.wixsite.com/techsupportblog, vladbruma2020@gmail.com).
+- 👩🏿‍💻 Where I usually publish software (vladbruma2020.wixsite.com/techsupportblog/file-share/f28e16a8-793a-4f0d-9fd4-c854bb649429).
 - 📝The Q&A Forum (vladbruma2020.wixsite.com/stack)
